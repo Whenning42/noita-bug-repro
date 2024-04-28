@@ -1,0 +1,11 @@
+<Mod
+    name="Game Mode Repro"
+    description=""
+    request_no_api_restrictions="1" 
+    ui_newgame_name="Game Mode Repro"
+    ui_newgame_description=""
+    ui_newgame_gfx_banner_bg="mods/game_mode_repro/files/menu_banner_background.png"
+    ui_newgame_gfx_banner_fg="mods/game_mode_repro/files/menu_banner_overlay.png"
+    is_game_mode="1"
+> 
+</Mod>
